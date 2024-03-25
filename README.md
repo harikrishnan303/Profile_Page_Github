@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harrry Krish</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan303&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnan303" /> </p>
+
 
 - 📫 How to reach me **harikrishnanaruchsamy@gmail.com**
 
